@@ -1,2 +1,3 @@
-# smallstep-sf
-Semântica Small Step - Semântica Formal
+# Semântica Small Step - Semântica Formal
+
+Implementação da semântica das regras em TrabalhoSS.hs
